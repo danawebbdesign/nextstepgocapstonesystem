@@ -1,0 +1,2 @@
+# nextstepgocapstonesystem
+Next Step Go is a full-functioning system created for our client, Cued-In, for my final capstone class. The purpose of Next Step Go is to help connect employers and businesses with prospective K-12 students in local and regional school systems. The site provides integral networking opportunities that currently do not exist in the market today and serves as an integration between students and businesses.
